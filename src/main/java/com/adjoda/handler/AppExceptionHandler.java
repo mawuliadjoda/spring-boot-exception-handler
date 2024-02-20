@@ -1,5 +1,6 @@
 package com.adjoda.handler;
 
+import com.adjoda.user.UserNotFoundException;
 import com.adjoda.user.UserServiceException;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

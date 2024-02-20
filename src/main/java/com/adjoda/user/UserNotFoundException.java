@@ -1,4 +1,4 @@
-package com.adjoda.handler;
+package com.adjoda.user;
 
 
 import org.springframework.http.HttpStatus;
